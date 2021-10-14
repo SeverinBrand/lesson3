@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+li {
+    list-style: none;
+}
+a,
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+img {
+    vertical-align: top;
+}
+.text{
+    color: red;
+}
+.paragraf{
+    color: green;
+}
+#main-text{
+    color: rgb(125, 182, 40);
+}
+p{
+    color: mediumturquoise;
+}
+.content
+.paragraf_item{
+    color: rgb(155, 49, 49);
+}
+.item
+.paragraf_item{
+    color: blue;
+}
+span{
+    color: red;
+}
